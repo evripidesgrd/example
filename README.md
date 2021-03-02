@@ -1,3 +1,3 @@
 # example
 Example repository for Git graduate course.
-This is an update to the readme file.
+This is an updated readme file.
